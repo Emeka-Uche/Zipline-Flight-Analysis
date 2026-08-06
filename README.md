@@ -39,15 +39,12 @@ The analysis includes:
 
 ### Notebook
 
-`notebooks/01_Executive_Metrics_Analysis.ipynb`
+`notebooks/Zipline Analysis Part 1.ipynb`
 
 ### Executive Summary
 
-`reports/Question_1_Metrics.md`
+`reports/Executive Report- Zipline Systems Engineering.pdf`
 
-### Dashboard Summary
-
-`reports/Question_2_Summary.md`
 
 ---
 
@@ -66,10 +63,10 @@ The analysis includes time-series visualization of telemetry data and identifica
 
 ### Notebook
 
-`notebooks/02_Failed_Flight_Investigation.ipynb`
+`notebooks/Zipline Analysis Part 2.ipynb`
 
 ### Investigation Report
 
-`reports/Failed_Flight_Summary.md`
+`reports/Executive Report- Zipline Systems Engineering.pdf`
 
 ---
